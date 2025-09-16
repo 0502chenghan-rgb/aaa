@@ -1,12 +1,11 @@
 INTRODUCE
 =========
-NAME 塗品妍
+NAME 楊承翰
 ----------
 </ol>
 <li>興趣</li>
   <ol>
-  <li>聽歌（嘻哈/韓團）</li>
-  <li>跳舞(還在學習）</<li>
+  <li>唱歌</li>
   <li>看恐怖片（有點怕但又愛看型）</li>
   <li>很喜歡ITZY/KIOF/ADP/Kendrick Lamar/Travis Scott</li>
   </ol>
