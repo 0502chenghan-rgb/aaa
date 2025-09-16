@@ -6,7 +6,7 @@ NAME 楊承翰
 <li>興趣</li>
   <ol>
   <li>唱歌</li>
-  <li>看恐怖片（有點怕但又愛看型）</li>
+  <li>彈吉他</li>
   <li>很喜歡ITZY/KIOF/ADP/Kendrick Lamar/Travis Scott</li>
   </ol>
 <li>個性</li>
