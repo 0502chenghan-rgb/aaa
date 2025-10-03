@@ -62,6 +62,7 @@ footer {
   font-size: 14px;
 }
 
+/* 精簡版就學經歷樣式 */
 .simple-timeline {
   display: flex;
   flex-direction: column;
@@ -69,21 +70,6 @@ footer {
   border-left: 3px solid #3498db;
   padding-left: 20px;
   margin-top: 20px;
-}
-
-.edu-item {
-  position: relative;
-}
-
-.edu-year {
-  font-size: 14px;
-  color: #3498db;
-  font-weight: bold;
-  position: absolute;
-  left: -110px;
-  width: 90px;
-  text-align: right;
-  top: 2px;
 }
 
 .edu-detail h3 {
@@ -98,19 +84,6 @@ footer {
   font-size: 14px;
 }
 
-/* RWD 適配 */
-@media (max-width: 600px) {
-  .edu-year {
-    position: static;
-    text-align: left;
-    margin-bottom: 5px;
-  }
-
-  .simple-timeline {
-    border-left: none;
-    padding-left: 0;
-  }
-}
 
 /* 動畫效果 */
 .fade-in {
